@@ -4,6 +4,7 @@ import sys
 #from init import *
 #address, bank, pin1 , pin2 , pin3 , pin4  , pin5 , pin6 , pin7 , pin8
 
+# 1 = on  0 = off
 pin1 = 0
 pin2 = 0
 pin3 = 0
