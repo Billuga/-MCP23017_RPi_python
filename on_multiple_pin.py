@@ -3,16 +3,16 @@ import smbus
 import sys
 #from init import *
 
-address = sys.argv[1]
-bank = sys.argv[2]
-pin1 = sys.argv[3]
-pin2 = sys.argv[4]
-pin3 = sys.argv[5]
-pin4 = sys.argv[6]
-pin5 = sys.argv[7]
-pin6 = sys.argv[8]
-pin7 = sys.argv[9]
-pin8 = sys.argv[10]
+#address = sys.argv[1]
+#bank = sys.argv[2]
+#pin1 = sys.argv[3]
+#pin2 = sys.argv[4]
+#pin3 = sys.argv[5]
+#pin4 = sys.argv[6]
+#pin5 = sys.argv[7]
+#pin6 = sys.argv[8]
+#pin7 = sys.argv[9]
+#pin8 = sys.argv[10]
 
 
 
