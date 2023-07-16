@@ -2,7 +2,20 @@
 import smbus
 import sys
 #from init import *
-#address, bank, pin1 , pin2 , pin3 , pin4  , pin5 , pin6 , pin7 , pin8
+
+address = sys.argv[1]
+bank = sys.argv[2]
+pin1 = sys.argv[3]
+pin2 = sys.argv[4]
+pin3 = sys.argv[5]
+pin4 = sys.argv[6]
+pin5 = sys.argv[7]
+pin6 = sys.argv[8]
+pin7 = sys.argv[9]
+pin8 = sys.argv[10]
+
+
+
 
 # 1 = on  0 = off
 pin1 = 0
